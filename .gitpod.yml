@@ -13,8 +13,9 @@ vscode:
     - svelte.svelte-vscode
     - eamodio.gitlens
     - esbenp.prettier-vscode
-    - ms-azuretools.vscode-docker
-    - dbaeumer.vscode-eslint
+    - GitHub.vscode-pull-request-github
+    - christian-kohler.npm-intellisense
+    - eg2.vscode-npm-script
 
 github:
   prebuilds:
