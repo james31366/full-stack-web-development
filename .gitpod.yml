@@ -8,18 +8,12 @@ ports:
   - port: 3000
     onOpen: open-browser
 
-
-
 vscode:
   extensions:
     - svelte.svelte-vscode
     - eamodio.gitlens
     - esbenp.prettier-vscode
-
     - ms-azuretools.vscode-docker
-
-    - HookyQR.beautify
-
     - dbaeumer.vscode-eslint
 
 github:
